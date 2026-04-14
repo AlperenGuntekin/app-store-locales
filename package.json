@@ -1,0 +1,63 @@
+{
+  "name": "app-store-locales",
+  "version": "0.1.0",
+  "description": "TypeScript dataset and helpers for App Store Connect and Google Play Console locales — codes, fonts, RTL, and text expansion data for 40+ languages.",
+  "keywords": [
+    "app-store",
+    "app-store-connect",
+    "google-play",
+    "localization",
+    "i18n",
+    "locale",
+    "locale-codes",
+    "ios",
+    "android",
+    "rtl",
+    "text-expansion",
+    "typescript"
+  ],
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts --clean",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlperenGuntekin/app-store-locales.git"
+  },
+  "homepage": "https://shotlingo.com",
+  "bugs": {
+    "url": "https://github.com/AlperenGuntekin/app-store-locales/issues"
+  },
+  "author": {
+    "name": "Alperen Güntekin",
+    "url": "https://shotlingo.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}
