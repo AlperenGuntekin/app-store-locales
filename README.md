@@ -1,6 +1,7 @@
 # app-store-locales
 
 [![npm version](https://img.shields.io/npm/v/app-store-locales.svg)](https://www.npmjs.com/package/app-store-locales)
+[![npm downloads](https://img.shields.io/npm/dm/app-store-locales.svg)](https://www.npmjs.com/package/app-store-locales)
 [![license](https://img.shields.io/npm/l/app-store-locales.svg)](./LICENSE)
 
 > TypeScript dataset and helpers for App Store Connect and Google Play Console locales — codes, fonts, RTL info, and text expansion data for 40+ languages.
@@ -118,4 +119,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Maintained as part of the [Shotlingo](https://shotlingo.com) open-source toolbox.</sub>
+<sub>Maintained as part of the [App Store screenshot sizes reference](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
