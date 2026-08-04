@@ -1,4 +1,4 @@
-# app-store-locales
+# app-store-locales — TypeScript Locale Data for App Store Connect & Google Play
 
 [![npm version](https://img.shields.io/npm/v/app-store-locales.svg)](https://www.npmjs.com/package/app-store-locales)
 [![npm downloads](https://img.shields.io/npm/dm/app-store-locales.svg)](https://www.npmjs.com/package/app-store-locales)
@@ -120,4 +120,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Maintained as part of the [App Store localization checker](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
+<sub>Maintained as part of the [App Store screenshot generator](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
