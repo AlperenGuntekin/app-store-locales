@@ -104,6 +104,7 @@ Missing a language? [Open an issue](https://github.com/AlperenGuntekin/app-store
 - [**text-expansion-calculator**](https://www.npmjs.com/package/text-expansion-calculator) — calculate expected text length for a locale (depends on this package)
 - [**Shotlingo**](https://shotlingo.com) — the product this data powers. Localize your App Store screenshots to 40+ languages with AI.
 - [App Store localization checker](https://shotlingo.com/tools/app-store-localization-checker) — check whether your app name still fits after translation, per locale
+- [App Store locale codes reference](https://shotlingo.com/tools/app-store-locale-codes) — interactive lookup for every App Store & Play Store locale code
 
 ## Contributing
 
@@ -120,4 +121,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Maintained as part of the [App Store screenshot generator](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
+<sub>Maintained as part of the [AI screenshot localizer](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
