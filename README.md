@@ -121,4 +121,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Maintained as part of the [AI screenshot localizer](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
+<sub>Maintained as part of the [ASO screenshot tool](https://shotlingo.com) open-source toolbox, Shotlingo.</sub>
